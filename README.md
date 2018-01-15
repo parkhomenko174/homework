@@ -10,4 +10,4 @@
   + first B
 2. Second
 
-# [HSE] (www.hse.ru)
+# [HSE](https://www.hse.ru/)
