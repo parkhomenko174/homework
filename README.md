@@ -17,7 +17,7 @@
 3. WHC
 4. Spanish
 #### Here you can find link of my university [HSE](https://www.hse.ru/) ####
-# ![]
+# ![](http://gym1409s-new.mskobr.ru/images/a6f59ca80f4dd0502e4d26774e05f421%282%29.jpg)
 # Nice to meet you!:) #
 ## My timetable ##
 день недели|время|предмет
