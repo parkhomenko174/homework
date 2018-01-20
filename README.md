@@ -1,16 +1,16 @@
 # *Some facts about me* #
 ## ***Hello, my name is Parkhomenko Elena!*** ##
 # *I am eighteen years old. I live in ***Russia***, in a town called Domodedovo.* #
-## ***I am a student of High School of Economics. It is the first year since I study there.*** ##
-# I love **dancing**, to study **Spanih**, to spend my freetime **with friemds** and ***travelling***, of course #
+## ***I am a student of High School of Economics. It is the first year since I study here.*** ##
+# I love **dancing**,***travelling***, studying **Spanih**, also I love to spend my freetime **with my friends** #
 + *I like watching films very much, so below you can see some of my favourite films:*
   - "Step up"
   - "The Shawshank Redemption"
 ### ***My favourite subjects of the course are:*** ###
 1. English
   + *Grammar*
-  + *Phoneticsа*
-  - *Practise of speach *
+  + *Phonetics*
+  + *Practise of speach *
 2. Latin
 3. WHC
 4. Spanish
