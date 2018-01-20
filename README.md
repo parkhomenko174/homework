@@ -2,7 +2,9 @@
 ## ***Hello, my name is Parkhomenko Elena!*** ##
 # *I am eighteen years old. I live in ***Russia***, in a town called Domodedovo.* #
 ## ***I am a student of High School of Economics. It is the first year since I study here.*** ##
-# I love **dancing**,***travelling***, studying **Spanih**, also I love to spend my freetime **with my friends** #
+# I love **dancing**,***travelling***, studying **Spanish**, also I love to spend my freetime **with my friends!** #
+# My zodiac sign is ***Aries***. I am interested in *spirituality* and *meditation*.
+### Now I have visited only five countries of the world but I am going to visit much more. ###
 + *I like watching films very much, so below you can see some of my favourite films:*
   - "Step up"
   - "The Shawshank Redemption"
