@@ -1,28 +1,35 @@
-# *About me* #
-## ***Привет, меня зовут Лена.*** ##
-# *Мне 18 лет, я живу в ***России***, в городе Домодедово.* #
-## ***Я учусь в *Высшей Школе Экономики* на 1 курсе, на факультете Лингвистики*** ##
-# Мне нравится заниматься **танцами**, изучать **испанский язык**, проводить время **с друзьями**, ***путешествовать*** #
-+ *У меня есть несколько любимых фильмов:*
-  - "Шаг вперед"
-  - "Побег из Шоушенка"
-### ***В ВШЭ я изучаю:*** ###
-1. Английский язык
-  + *фонетика*
-  + *грамматика*
-  - *практика речи*
-2. Латинский язык
-3. МКН 
-# [HSE](https://www.hse.ru/) #
-# ![](https://yandex.ru/images/search?text=%D0%B2%D1%8B%D1%81%D1%88%D0%B0%D1%8F%20%D1%88%D0%BA%D0%BE%D0%BB%D0%B0%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8&img_url=https%3A%2F%2Fs0.rbk.ru%2Fv6_top_pics%2Fmedia%2Fimg%2F0%2F76%2F754598824472760.jpeg&pos=4&rpt=simage)
-# Спасибо за внимание!:) #
+# *Some facts about me* #
+## ***Hello, my name is Parkhomenko Elena!*** ##
+# *I am eighteen years old. I live in ***Russia***, in a town called Domodedovo.* #
+## ***I am a student of High School of Economics. It is the first year since I study there.*** ##
+# I love **dancing**, to study **Spanih**, to spend my freetime **with friemds** and ***travelling***, of course #
++ *I like watching films very much, so below you can see some of my favourite films:*
+  - "Step up"
+  - "The Shawshank Redemption"
+### ***My favourite subjects of the course are:*** ###
+1. English
+  + *Grammar*
+  + *Phoneticsа*
+  - *Practise of speach *
+2. Latin
+3. WHC
+4. Spanish
+# Here you can find link of my university [HSE](https://www.hse.ru/) #
+# ![]
+# Nice to meet you!:) #
+# My timetable #
 день недели|время|предмет
 ---|:---:|---:
-понедельник| 9:00|фонетика
----|10:40|грамматика
-вторник|12:10| мкн
----|13:40|испанский
-среда|10:40|латынь
----|13:40|видео
-четверг|14:10|цифровая грамотность
-пятница|9:00|практика речи
+понедельник| 10:30-11:50|цифровая грамотность(семинар)
+---|12:10-13:30|цифровая грамотность(лекция)
+вторник|9:00-10:20|латинский язык
+---|10:30-11:50|практика речи
+---|12:10-13:30|испанский язык
+среда|12:10-13:30|практика речи
+---|13:40-15:00|практика речи
+---|15:10-16:30|НИС
+---|16:40-18:00|Мкн
+четверг|9:00-10:20|испанский язык
+---|10:30-11:50|видео
+---|12:10-13:30|фонетика
+пятница|15:10-16:30|Мкн(лекция)
